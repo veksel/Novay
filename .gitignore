@@ -10,3 +10,12 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Binary files
+bin/
+
+# Vendor for deps
+vendor/
+
+# IntelliJ IDEA
+.idea/
